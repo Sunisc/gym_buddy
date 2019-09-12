@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "239788685483",
+    "firebase_url": "https://gymbuddy-76190.firebaseio.com",
+    "project_id": "gymbuddy-76190",
+    "storage_bucket": "gymbuddy-76190.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239788685483:android:ffa64779639a16b8d51fee",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "239788685483-kjiu4b45ca92unphpl34d9vbkllsnncd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8NFyDLTMLqA8Hz_sWRCsgxDKkAQRR_RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "239788685483-kjiu4b45ca92unphpl34d9vbkllsnncd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
